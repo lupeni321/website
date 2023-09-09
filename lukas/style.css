@@ -16,3 +16,17 @@
 .imagemcapa{
     max-width: 100%
 }
+
+.bordaprincipal{
+background-color: chartreuse;
+}
+
+.botao{
+    background-color: rgb(255, 0, 0);
+    border: 2px ssolid black;
+    padding: 4x;
+}
+
+nav{
+    text-align: center;
+}
