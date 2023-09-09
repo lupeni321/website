@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+    margin-left: 150mm;
+    margin-right: 150mm;
+}
+
+h1{
+    text-align: center;
+    font-size: 90px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+.banner{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    background-color: azure;
+    border: 15px double blue;
+    box-shadow: 10px 20px grey;
+    margin-bottom: 50px;
+}
+
+h1:hover{
+    color: aquamarine;
+}
+
+.banner:hover{
+    background-color: blue;
+    transition: 1s;
+    color: white;
+}
