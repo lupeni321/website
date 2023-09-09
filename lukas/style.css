@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div_imagem_capa img{
+    margin-bottom: -3.8px;
+    margin: auto;
+    display: block;
+}
+
+.espaco_lados{
+    padding: 0px 2vw 2vw 2vw;
+    
+}
+.imagemcapa{
+    max-width: 100%
+}

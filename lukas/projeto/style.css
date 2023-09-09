@@ -20,12 +20,12 @@ h2{
     font-size: 40px;
     background-color: azure;
     border: 15px double blue;
-    box-shadow: 10px 20px grey;
+    box-shadow: 10px 20px gray;
     margin-bottom: 50px;
 }
 
 h1:hover{
-    color: aquamarine;
+    color:aquamarine;
 }
 
 .banner:hover{
